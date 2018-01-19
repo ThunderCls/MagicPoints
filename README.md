@@ -3,7 +3,7 @@ MagicPoints plugin for x64dbg
 
 MagicPoints v1 plugin by ThunderCls - 2016
 
-***ATTENTION: THIS PLUGIN HAS BEEN DEPRECATED AND IT IS NOT SUPPORTED ANYMORE. YOU SHOULD USE xHotSpots INSTEAD***
+***ATTENTION: THIS PLUGIN HAS BEEN DEPRECATED AND IT IS NOT SUPPORTED ANYMORE. YOU SHOULD USE xHotSpots (https://github.com/ThunderCls/xHotSpots) INSTEAD***
 
 Blog: http://reversec0de.wordpress.com
 
